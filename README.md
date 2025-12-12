@@ -1,33 +1,52 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4a71e8,100:8ab4ff&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:333333&text=%7C%7C%20AYMAN%20%7C%7C%20🐼&fontSize=45&fontColor=00ffea&animation=fadeIn&fontAlignY=40&desc=Future%20Full-Stack%20Developer&descAlignY=70&descSize=22)
 
-# 👋 Hi! I'm a Web Development Student (DAW) Aplication Web Devlopment.
+# 😁 Welcome to My GitHub Profile
 
-## 🚀 About Me
-- 🎓 Student in Higher Vocational Training in Web Application Development (DAW)  
-- 💻 I enjoy creating useful and functional web applications  
-- 📚 Learning Python, PHP, MySQL, HTML, and CSS  
-- 🤝 Looking to improve as a developer and collaborate on projects
+Hi! I'm **Ayman**, a passionate student and a **Future Full-Stack Developer**.  
+I love technology, coding, and building cool projects that challenge my skills.
 
 ---
 
-## 🛠️ Skills
-**Frontend:** HTML, CSS, Python 
-**Backend:** PHP 
-**Databases:** MySQL, SQLite  
-**Other tools:** Git, GitHub 
+## 👨‍💻 About Me
+- 🌐 Future Full-Stack Developer  
+- 📚 Currently learning HTML, CSS, Python, PHP, MySQL  
+- 🎯 Goal: Become a Coding Legend ⚡ 
+- 🐼 Personality: calm but determined — like the panda in my banner 😂
+
+---
+
+## 🛠️ Tech Stack (Growing Every Day)
+
+**Frontend:**  
+🟦 HTML • 🟨 CSS  
+
+**Backend / Programming:**  
+🐍 Python  
+
+**Databases:**  
+🗄️ SQL  
+
+**Tools:**  
+🔧 Git • GitHub • VS Code • Virtual Machines  
 
 ---
 
 ## 📂 Featured Projects
-- 🔧 [Portfolio Website](https://exoblacktic.github.io/portfolio-daw/)  
+
+### 🔹 Portfolio Website  
+➡️ [👉 Click here](https://exoblacktic.github.io/portfolio-daw/)
+
+
+### 🔹 Python - Weather CLI App
+➡️ (your link here)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exoblacktic&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
-- 📩 Email: mhatimaarab@gmail.com 
-- 🌐 Portfolio: https://exoblacktic.github.io/portfolio-daw/
+📩 Email: mhatimaarab@gmail.com   
+🌐 Portfolio: (https://exoblacktic.github.io/portfolio-daw/)
