@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4a71e8,100:8ab4ff&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontColor=ffffff)
+
 # 👋 Hi! I'm a Web Development Student (DAW) Aplication Web Devlopment.
 
 ## 🚀 About Me
